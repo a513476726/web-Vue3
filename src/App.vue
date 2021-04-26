@@ -7,14 +7,10 @@
 
 <script lang="ts">
 import { Options, Vue } from "vue-class-component";
-import Homepage from "@/views/Home.vue"; // @ is an alias to /src
 
 @Options({
-  components: {
-    Homepage
-  }
+  components: {},
 })
-
 export default class Home extends Vue {}
 </script>
 <style lang="scss">
