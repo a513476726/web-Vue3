@@ -9,9 +9,12 @@
   },
   "dependencies": {
     "babel-eslint": "^10.1.0",
+    "compression-webpack-plugin": "^7.1.2",
     "core-js": "^3.8.3",
     "eslint-plugin-flow-vars": "^0.5.0",
     "eslint-plugin-flowtype": "^5.4.0",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
     "vue": "^3.0.4",
     "vue-class-component": "^8.0.0-0",
     "vue-router": "^4.0.3",
